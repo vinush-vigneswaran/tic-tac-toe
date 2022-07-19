@@ -2,7 +2,8 @@
 A game of tic-tac-toe? Created on C# 10 .NET 6.0 with option to play on CLI or Windows UI.
 
 ## Getting Started
-To play the game you can simply clone this repo and then click on the shortcut (to the .exe file) located in ``...\tic-tac-toe\tic-tac-toe-game``
+To play the game you can simply clone this repo and then click on the shortcut (to the .exe file) located in:
+ ``...\tic-tac-toe\tic-tac-toe-game``
 
 ## WinForm UI
 The GUI was created using WinForm on .NET
@@ -18,7 +19,7 @@ The GUI was created using WinForm on .NET
 
 #### Menu bar items
 
-![menu_bar](help_new_game_screenshot.png)
+![menu_bar](media/help_new_game_screenshot.png)
 
 ## Class Structure
 ```
