@@ -25,7 +25,7 @@ The GUI was created using WinForm on .NET
 ```
 Class Library
 │   Game.cs
-│   Game.cs
+│   Board.cs
 │   Piece.cs    
 │   Player.cs
 └───
